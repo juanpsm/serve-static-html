@@ -1,7 +1,7 @@
 releases:
   - name: test
     namespace: test
-    chart: ../../chart/serve-static-html
+    chart: ../../charts/serve-static-html
     version: 0.1.0
     values:
       - ../values/test.yaml
