@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-11-15T16:09:11.161863228-03:00"
+entries:
+  serve-static:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-15T16:21:35.173583533-03:00"
+    description: A Helm chart for Kubernetes
+    digest: b8dcdbdee0d460c86866187b4893fec19c70d938da971ced4d6c63dc010fba14
+    name: serve-static
+    type: application
+    urls:
+    - https://juanpsm.github.io/static-chart/serve-static-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-15T16:21:35.171559791-03:00"
