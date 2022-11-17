@@ -1,3 +1,8 @@
+# Serve static html
+
+Simple chart that deploys a web server that exposes static content from a
+configmap.
+
 ## Probando con kind
 
 Simplificamos las pruebas usando un cluster kind que a su vez luego
