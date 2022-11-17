@@ -3,6 +3,16 @@ entries:
   serve-static:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-17T02:16:52.282442752Z"
+    description: A Helm chart for Kubernetes
+    digest: 679dd0f3bb6721cfc02755e001e4223bb7ceeb53101e8d20a2c99671280c4507
+    name: serve-static
+    type: application
+    urls:
+    - https://github.com/juanpsm/serve-static-html/releases/download/serve-static-1.0.0/serve-static-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-16T14:52:49.470236457Z"
     description: A Helm chart for Kubernetes
     digest: 6eb9f46a277c9c77b9a717d5a8d8c20d0dc3857329cb3601930e71bc607eca8c
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/juanpsm/serve-static-html/blob/gh-pages/serve-static-0.1.0.tgz?raw=true
     version: 0.1.0
-generated: "2022-11-15T16:40:04.521798739-03:00"
+generated: "2022-11-17T02:16:52.282454452Z"
